@@ -1,4 +1,4 @@
-### ### Hi there 👋
+### Hi there 👋
 
 <!--
 **sakura-ysy/sakura-ysy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,13 @@ Here are some ideas to get you started:
 <img align="right" alt="Hacking" width="320" src="https://github.com/sakura-ysy/sakura-ysy/blob/main/assets/runner1.jpg">
 
 - 🔭 I’m currently working at  **PDSL** of **HUST**.
+
 - 🌱 I’m currently learning  **Computer Science**, especially **storage** related.
+
 - 👯 I’m looking to collaborate on **everything** we have the same interest.
+
 - 👨‍💻 All of my public projects are available at **HERE**.
+
 - 📫 Learn more about me through **[My Blog](https://yesiyuan.cn/)**.
 
 <div align="center">
