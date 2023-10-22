@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **everything** we have the same interest.
 
-- 👨‍💻 All of my public projects are available at **HERE**.
+- 👨‍💻 All of my public projects are available **HERE**.
 
 - 📫 Learn more about me through **[My Blog](https://yesiyuan.cn/)**.
 
