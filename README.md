@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studying on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Hacking" width="320" src="https://github.com/sakura-ysy/sakura-ysy/blob/main/assets/runner1.jpg">
 
 
-- 🔭 I’m currently working at  **PDSL** of **HUST**.
+- 🔭 I’m currently studying at  **PDSL** of **HUST**.
 
 - 🌱 I’m currently learning  **Computer Science**, especially **storage** related.
 
